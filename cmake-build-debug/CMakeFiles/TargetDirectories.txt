@@ -1,0 +1,3 @@
+C:/Users/adana/CLionProjects/minesweeper/cmake-build-debug/CMakeFiles/minesweeper.dir
+C:/Users/adana/CLionProjects/minesweeper/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/adana/CLionProjects/minesweeper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
